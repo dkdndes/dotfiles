@@ -1,2 +1,3 @@
-# dotfiles
-My dotfiles repo
+# Dotfiles
+
+My dotfiles repo, to be used by Github Actions
